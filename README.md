@@ -50,8 +50,9 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
   - The percentage of non-Vine reviews with 5 stars was 54.47%
 
 The code that determined these findings can be viewed here:
-![review_analysis](review_analysis.png)
-
+<br><br>
+<img src="review_analysis.png" height="550" width="500">
+<br>
 ## Summary
 Based on the analysis, it can be determined that there is no positivity bias for Vine program reviews compared to non-Vine reviews, given that the percentage of 5-star reviews for Vine members was less than the 5-star review percentage for non-Vine members.
 
